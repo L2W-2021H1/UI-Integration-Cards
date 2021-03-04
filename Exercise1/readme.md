@@ -1,4 +1,4 @@
 # Exercise 1
 
 
-[Go back to Exercise overview](/readme.md)
+[Go back to Exercise overview](/)
