@@ -1,4 +1,4 @@
-E# SAP Work Zone UI Integration Cards Hands-on for Learn to Win 2021-H1
+# SAP Work Zone UI Integration Cards Hands-on for Learn to Win 2021-H1
 
 ## Description
 This repository contains material for the SAP **Learn to Win 2021-H1** session on **SAP Work Zone UI Integration Cards**.
