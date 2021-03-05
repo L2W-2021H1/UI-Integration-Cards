@@ -99,10 +99,10 @@ If you were successful the card will be updated accordingly.
 
 ## Summary
 
-Congratulations: you just created a live connection towards your Google Drive account by using Open Connectors and Business Application Studio.
-Feel free to try out with other connectors like ServiceNow as well. For more information see my blogpost:
-https://blogs.sap.com/2020/12/21/how-to-integrate-3rd-party-services-as-servicenow-to-sap-work-zone-for-hr-using-open-connectors-and-business-application-studio-part-1-2/
-https://blogs.sap.com/2020/12/22/how-to-integrate-3rd-party-services-as-servicenow-to-sap-work-zone-for-hr-using-open-connectors-and-business-application-studio-part-2-2/
+Congratulations: you just created a live connection towards your Google Drive account by using Open Connectors and Business Application Studio.   
+Feel free to try out with other connectors like ServiceNow as well. For more information see the blogpost by Desiree Moeller:
+[Connect SAP Work Zone to ServiceNow - Part 1](https://blogs.sap.com/2020/12/21/how-to-integrate-3rd-party-services-as-servicenow-to-sap-work-zone-for-hr-using-open-connectors-and-business-application-studio-part-1-2/)
+[Connect SAP Work Zone to ServiceNow - Part 2](https://blogs.sap.com/2020/12/22/how-to-integrate-3rd-party-services-as-servicenow-to-sap-work-zone-for-hr-using-open-connectors-and-business-application-studio-part-2-2/)
 
 
 
