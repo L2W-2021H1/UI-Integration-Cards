@@ -25,7 +25,6 @@ Support for the content in this repository is available during the actual time o
 
 ## Links
 * [UI Integration Cards demo kit](https://sapui5.hana.ondemand.com/sdk/test-resources/sap/ui/integration/demokit/cardExplorer/index.html)
-* []()
 
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the LICENSE file.
