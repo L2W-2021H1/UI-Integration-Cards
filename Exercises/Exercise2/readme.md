@@ -61,7 +61,7 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 > Note that for Authorization you have to take the full path including user, organization, element.
 
-> Note when copying, don't cope the quotes.
+> Note when copying, don't copy the quotes.
 
 ![alt text](./CurlHeaders.png "CurlHeaders")
 
@@ -73,11 +73,9 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 ![alt text](./AddHeaders2.png "AddHeaders2")
 
-    The connection between Google Drive and the UI Integration Card is established.
-
-    Now lets tell the Card what kind of metadata should be shown.
-
-    For this go back into the response header of your GET request and take the metadata that you want to show.
+The connection between Google Drive and the UI Integration Card is established.    
+Now lets tell the Card what kind of metadata should be shown.    
+For this go back into the response header of your GET request and take the metadata that you want to show.
 
 (16) Select **name** and **properties/mimeType**.
 
