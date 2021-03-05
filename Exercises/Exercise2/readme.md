@@ -29,38 +29,27 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 ![alt text](./StartTemplate.png "StartTemplate")
 
-(x) Scroll down and select the template for **UI Integration Cards** and click on **Start**.
+(6) Scroll down and select the template for **UI Integration Cards** and click on **Start**.
 
 ![alt text](./UIIntegrationCard.png "UIIntegrationCard")
 
-(x) Insert the _Project Name_, _Namspace_, _Card Sample_ **Highlight Card**, and a _Title_. Leave _Compatible with SAP Mobile Cards_ to false and click on **Finish**.
+(7) Insert the _Project Name_, _Namspace_, _Card Sample_ **Highlight Card**, and a _Title_. Leave _Compatible with SAP Mobile Cards_ to false and click on **Finish**.
 
 > Note that your workspace will reload with the newly generated project.
 
 ![alt text](./ProjectDetails.png "ProjectDetails")
 
-> why
-
-(x) Login to your Trial CF account with endpoint, e-mail and password. Choose then the org and dev space you want to use.
-
-![alt text](./XXX.png "XXX")
-
-(x) If you are logged in successfully you will see in the left corner your target CF space:
-
-![alt text](./XXX.png "XXX")
-> End why
-
-(x) Right click on file **manifest.json** and choose **UI Integration Card: Preview**. This will give you a live preview.
-(x) Right click on file **manifest.json** and choose **UI Integration Card: Edit**. This will give you the options to change the manifest in a no-code way.
+(8) Right click on file **manifest.json** and choose **UI Integration Card: Preview**. This will give you a live preview.
+(9) Right click on file **manifest.json** and choose **UI Integration Card: Edit**. This will give you the options to change the manifest in a no-code way.
 
 
 ![alt text](./CardEdit.png "CardEdit")
 
-(x) Delete the preconfigured **JSON Data** from **Data Configuration (Content)** and save the template.
+(10) Delete the preconfigured **JSON Data** from **Data Configuration (Content)** and save the template.
 
 ![alt text](./RemoveJSON.png "RemoveJSON")
 
-(x) Copy the generated **Request URL** from OpenConnectors and past it in **Data Request URL** under **Data Configuration (Header)**.
+(11) Copy the generated **Request URL** from OpenConnectors and past it in **Data Request URL** under **Data Configuration (Header)**.
 
 > Note that after each save, the preview will reload. You will see an error message **unauthorized** in the right bottom corner.
 
@@ -68,7 +57,7 @@ Now lets create the actual UI Integration Card where we fill in the information 
 ![alt text](./NewDataURL.png "NewDataURL  ")
 
 
-(x) Take over the **headers** from the CURL request. Note that there are 2: **accept** and **Authorization**.
+(12) Take over the **headers** from the CURL request. Note that there are 2: **accept** and **Authorization**.
 
 > Note that for Authorization you have to take the full path including user, organization, element.
 
@@ -76,26 +65,29 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 ![alt text](./CurlHeaders.png "CurlHeaders")
 
-(x) Under **Data Configuration (Content)** add two headers **Data Request HTTP Headers**.
-Click **Add Parameter**
+(13) Under **Data Configuration (Content)** add two headers **Data Request HTTP Headers**.
+
+(14) Click **Add Parameter** and add the **key** _accept_ and **value** _application/json_.
+
+(15) Click **Add Parameter** and add the **key** _Authorization_ and **value** like in Open Connectors.
 
 ![alt text](./AddHeaders2.png "AddHeaders2")
 
-(x) The connection between Google Drive and the UI Integration Card is established.
+    The connection between Google Drive and the UI Integration Card is established.
 
     Now lets tell the Card what kind of metadata should be shown.
 
     For this go back into the response header of your GET request and take the metadata that you want to show.
 
-(x) Select **name** and **properties/mimeType**.
+(16) Select **name** and **properties/mimeType**.
 
 ![alt text](./SelectMetaData.png "SelectMetaData")
 
-(x) Fill in the name and mimeType in the content configuration section. In addition adjust the card header and give a title as well as subtitle. You should be able to see now in the preview your files of Google Drive from the specific folder “SAP”:
+(17) Fill in the name and mimeType in the content configuration section. In addition adjust the card header and give a title as well as subtitle. You should be able to see now in the preview your files of Google Drive from the specific folder “SAP”:
 
 ![alt text](./ProvidePath2.png "ProvidePath2")
 
-(x) Make the Card Header a bit more clean by changing the field in **Card Header Configuration**.
+(18) Make the Card Header a bit more clean by changing the field in **Card Header Configuration**.
     Try out the connection and add a file within your Google Drive:
 
 ![alt text](./NicenUp.png "NicenUp")
