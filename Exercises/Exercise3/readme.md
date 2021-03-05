@@ -1,5 +1,6 @@
 # Exercise 3 - Deploying/consuming the Card in SAP Work Zone
 
+
 :party:
 
 
