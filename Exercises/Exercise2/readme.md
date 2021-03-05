@@ -7,11 +7,11 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 ## Create new Development Space
 
-(1) Switch back to our SAP BTP cockpit and go to the Business Application Studio.
+(1) Switch back to our **SAP BTP cockpit** and go to the **Business Application Studio**.
 
 ![alt text](./OpenBAS.png "OpenBAS")
 
-(2) Create a new Dev Space where you can develop various kind of applications.
+(2) Create a new **Dev Space** where you can develop various kind of applications.
 
 ![alt text](./CreateDevSpace.png "CreateDevSpace")
 
@@ -19,7 +19,7 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 ![alt text](./CreateDevSpace2.png "CreateDevSpace2")
 
-(4) When your Dev Space is running, open it.
+(4) When your Dev Space is **RUNNING**, open it.
 
 ![alt text](./OpenBAS2.png "OpenBAS2")
 
