@@ -2,6 +2,6 @@
 
 
 
-[Continue to Exercise 3](/Exercise4/readme.md)    
+[Continue to Exercise 3](/Exercises/Exercise3/readme.md)    
 
 [Go back to Exercise overview](/readme.md)
