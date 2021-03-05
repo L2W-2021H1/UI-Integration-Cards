@@ -1,11 +1,5 @@
 # Exercise 1 - Prepare Requirements
 
-Make sure that you have the following setup:
-* [An instance to a SAP Business Technology Platform tenant](/Exercise1#Register-your-SAP-Business-Technology-Platform-Trial-Account)
-* You have access to the SAP Business Application Studio on this tenant
-* You have access to SAP Integration Suite on this tenant and Open Connectors is active
-* You have a Google Drive Account setup and a folder called SAP with some files in it
-
 
 ## Register your SAP Business Technology Platform Trial Account
 please follow the steps in this blog:   

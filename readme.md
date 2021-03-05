@@ -15,11 +15,11 @@ Have fun! :smiley:
 
 
 ## Exercises
-* :man_technologist: :woman_technologist: [Exercise 1 - Prepare Requirements](/Exercise1/readme.md)
-* :rocket:[Exercise 2 - Connect to Google drive with Open Connectors](/Exercise2/readme.md)
-* :nerd_face:[Exercise 3 - Create a UI Integration Card in Business Application Studio](/Exercise3/readme.md)
-* :tada:[Exercise 4 - Deploying/consuming the Card in SAP Work Zone](/ex1/readme.md)
-* Party like it's 1999 :partying_face:
+* [Exercise 1 - Prepare Requirements](/Exercise1/readme.md)
+* [Exercise 2 - Connect to Google drive with Open Connectors](/Exercise2/readme.md)
+* [Exercise 3 - Create a UI Integration Card in Business Application Studio](/Exercise3/readme.md)
+* [Exercise 4 - Deploying/consuming the Card in SAP Work Zone](/ex1/readme.md)
+
 
 ## Support
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the Issues tab.
