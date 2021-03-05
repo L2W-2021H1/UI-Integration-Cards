@@ -29,7 +29,7 @@ Have fun! :smiley:
 :fire:
 
 :tada:
-* [Exercise 1 - Prepare Google drive](/Exercise1/readme.md)
+* [Exercise 1 - Prepare Requirements](/Exercise1/readme.md)
 * [Exercise 2 - Connect to Google drive with Open Connectors](/Exercise2/readme.md)
 * [Exercise 3 - Create a UI Integration Card in Business Application Studio](/Exercise3/readme.md)
 * [Exercise 4 - Deploying/consuming the Card in SAP Work Zone](/ex1/readme.md)
