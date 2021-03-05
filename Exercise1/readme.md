@@ -13,10 +13,11 @@ please follow the steps in this blog:
 https://developers.sap.com/tutorials/hcp-create-trial-account.html
 
 ## Activate the Business Application studio
->_Note that you will have to manually add the entitlements to your subacount_
-
 please follow the steps in this blog:
 https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/
+
+>_Note that you will have to manually add the entitlements to your subacount_
+> _For both Integration Suite as well as Business Application Studio_
 
 ![alt text](/Exercise1/entitlements.gif "How to add entitlements")
 ##
