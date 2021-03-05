@@ -10,23 +10,23 @@ What are we doing now and why?  As a first step we need to establish a connectio
 (2) scroll down to subscriptions and click on the **icon** right behind **Integration Suite**.   
 
 
-![alt text](/Exercise2/OpenIntegrationSuite.png "OpenIntegrationSuite")   
+![alt text](../OpenIntegrationSuite.png "OpenIntegrationSuite")   
 
 
 > Alternatively click on the row and in the panes that opens to the right click on **Go to Application***   
 
-![alt text](/Exercise2/OpenIntegrationSuiteAlt.png "OpenIntegrationSuiteAlt")
+![alt text](/Exercise1/OpenIntegrationSuiteAlt.png "OpenIntegrationSuiteAlt")
 
 
 (3) A new tab will open up and within your **Integration Suite Cockpit** you will find the capability to **extend Non-SAP Connectivity** – namely the _Open Connectors_. Click to open.
 
 > Alternatively choose Manage Capabilities and Select **Non-SAP Connectivity**.
 
-![alt text](/Exercise2/OpenNonSAPIntegration.png "OpenNonSAPIntegration")
+![alt text](/OpenNonSAPIntegration.png "OpenNonSAPIntegration")
 
 (4) Within **Open Connectors** click on **Connectors**.
 
-![alt text](/Exercise2/Connectors.png "Connectors")
+![alt text](./Connectors.png "Connectors")
 
 (5) You accessed now your Open Connector Trial through Integration Suite.
 
