@@ -42,13 +42,13 @@ Now lets create the actual UI Integration Card where we fill in the information 
 (8) Right click on file **manifest.json** and choose **UI Integration Card: Preview**. This will give you a live preview.
 (9) Right click on file **manifest.json** and choose **UI Integration Card: Edit**. This will give you the options to change the manifest in a no-code way.
 
-![alt text](./CardEdit.png "CardEdit" =250x)
+![alt text](./CardEdit.png =250x)
 
 ## Change the content of the UI Integration Card
 
 (10) Delete the preconfigured **JSON Data** from **Data Configuration (Content)** and save the template.
 
-![alt text](./RemoveJSON.png "RemoveJSON" =450x)
+![alt text](./RemoveJSON.png =450x)
 
 (11) Copy the generated **Request URL** from OpenConnectors and past it in **Data Request URL** under **Data Configuration (Header)**.
 
