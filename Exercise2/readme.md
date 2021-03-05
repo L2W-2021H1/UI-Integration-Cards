@@ -4,8 +4,8 @@ What are we doing now and why?  As a first step we need to establish a connectio
 
 ## Open the Integration Suite from your SAP Business Technology Platform Cockpit:
 
-From your subaccount, choose **Instances and Subscriptions**.   
-scroll down to subscriptions and click on the **icon** right behind **Integration Suite**.   
+(1) From your subaccount, choose **Instances and Subscriptions**.      
+(2) scroll down to subscriptions and click on the **icon** right behind **Integration Suite**.   
 
 
 ![alt text](/Exercise2/OpenIntegrationSuite.png "OpenIntegrationSuite")   
@@ -16,8 +16,13 @@ scroll down to subscriptions and click on the **icon** right behind **Integratio
 ![alt text](/Exercise2/OpenIntegrationSuiteAlt.png "OpenIntegrationSuiteAlt")
 
 
-Within your Integration Suite Cockpit you will find the capability to **extend Non-SAP Connectivity** – namely the _Open Connectors_:   
+(3) A new tab will open up and within your **Integration Suite Cockpit** you will find the capability to **extend Non-SAP Connectivity** – namely the _Open Connectors_. Click to open.
+
+> Alternatively choose Manage Capabilities and Select **Non-SAP Connectivity**.
+
 ![alt text](/Exercise2/OpenNonSAPIntegration.png "OpenNonSAPIntegration")
+
+(4) Within **Open Connectors** click on **Connectors**.
 
 ![alt text](/Exercise2/Connectors.png "Connectors")
 
