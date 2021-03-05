@@ -12,7 +12,7 @@ https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cl
 >_Note that you will have to manually add the entitlements to your subacount_   
 > _for both Integration Suite as well as Business Application Studio_
 
-![alt text](/Exercise1/entitlements.gif "How to add entitlements")
+![alt text](/Exercises/Requirements/entitlements.gif "How to add entitlements")
 
 
 ## Activate Open Connectors
@@ -32,5 +32,5 @@ Make sure that after subscription, you create a folder called SAP where you stor
 ## Summary
 After completing these chapters you have met all requirements to start building your own SAP UI integration card.
 
-[Continue to Exercise 1](/Exercise2/readme.md)   
+[Continue to Exercise 1](/Exercises/Exercise1/readme.md)   
 [Go back to Exercise overview](https://github.com/L2W-2021H1/UI-Integration-Cards)

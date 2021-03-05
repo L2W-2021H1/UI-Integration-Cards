@@ -8,16 +8,16 @@ This session introduces attendees to the creation of a **UI Integration Card** w
 Have fun! :smiley:
 
 ## Requirements
-* [SAP Business Technology Platform Trial](/Exercise1/readme.md#register-your-sap-business-technology-platform-trial-account)
-   * [SAP Business Application Studio](/Exercise1/readme.md#activate-the-business-application-studio)
-   * [SAP Integration Suite](/Exercise1/readme.md#activate-open-connectors)
-* [Google Drive](/Exercise1/readme.md#prepare-your-google-drive)
+* [SAP Business Technology Platform Trial](/Exercises/Requirements/readme.md#register-your-sap-business-technology-platform-trial-account)
+   * [SAP Business Application Studio](/Exercises/Requirements/readme.md#activate-the-business-application-studio)
+   * [SAP Integration Suite](/Exercises/Requirements/readme.md#activate-open-connectors)
+* [Google Drive](/Exercises/Requirements/readme.md#prepare-your-google-drive)
 
 
 ## Exercises
-* [Exercise 1 - Connect to Google drive with Open Connectors](/Exercise2/readme.md)
-* [Exercise 2 - Create a UI Integration Card in Business Application Studio](/Exercise3/readme.md)
-* [Exercise 3 - Deploying/consuming the Card in SAP Work Zone](/Exercise4/readme.md)
+* [Exercise 1 - Connect to Google drive with Open Connectors](/Exercises/Exercise1/readme.md)
+* [Exercise 2 - Create a UI Integration Card in Business Application Studio](/Exercises/Exercise2/readme.md)
+* [Exercise 3 - Deploying/consuming the Card in SAP Work Zone](/Exercises/Exercise3/readme.md)
 
 
 ## Support
