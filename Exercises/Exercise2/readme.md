@@ -48,7 +48,7 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 (10) Delete the preconfigured **JSON Data** from **Data Configuration (Content)** and save the template.
 
-![alt text](./RemoveJSON.png "RemoveJSON")
+![alt text](./RemoveJSON.png "RemoveJSON" =450x)
 
 (11) Copy the generated **Request URL** from OpenConnectors and past it in **Data Request URL** under **Data Configuration (Header)**.
 
