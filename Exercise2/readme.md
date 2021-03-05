@@ -4,7 +4,12 @@ What are we doing now and why?  As a first step we need to establish a connectio
 
 ## Open the Integration Suite from your SAP Business Technology Platform Cockpit:
 
-![alt text](/Exercise2/OpenIntegrationSuite.png "OpenIntegrationSuite")
+From your subaccount, choose **Instances and Subscriptions**.   
+scroll down to subscriptions and click on the **icon** right behind **Integration Suite**.   
+> Alternatively click on the row and in the panes that opens to the right click on **Go to Application***
+
+
+![alt text](/Exercise2/OpenIntegrationSuite.png "OpenIntegrationSuite")   
 
 ![alt text](/Exercise2/OpenIntegrationSuiteAlt.png "OpenIntegrationSuiteAlt")
 
