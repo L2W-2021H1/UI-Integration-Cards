@@ -8,17 +8,16 @@ This session introduces attendees to the creation of a **UI Integration Card** w
 Have fun! :smiley:
 
 ## Requirements
-* [SAP Business Technology Platform Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
-   * [SAP Business Application Studio](https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/)
-   * [SAP Integration Suite](https://blogs.sap.com/2020/08/07/sap-cloud-platform-integration-suite-trial-is-now-available/)
-* [Google Drive](https://www.google.com/intl/en_in/drive/)
+* [SAP Business Technology Platform Trial](/Exercise1/readme.md#register-your-sap-business-technology-platform-trial-account)
+   * [SAP Business Application Studio](/Exercise1/readme.md#activate-the-business-application-studio)
+   * [SAP Integration Suite](/Exercise1/readme.md#activate-open-connectors)
+* [Google Drive](/Exercise1/readme.md#prepare-your-google-drive)
 
 
 ## Exercises
-* [Exercise 1 - Prepare Requirements](/Exercise1/readme.md)
-* [Exercise 2 - Connect to Google drive with Open Connectors](/Exercise2/readme.md)
-* [Exercise 3 - Create a UI Integration Card in Business Application Studio](/Exercise3/readme.md)
-* [Exercise 4 - Deploying/consuming the Card in SAP Work Zone](/ex1/readme.md)
+* [Exercise 1 - Connect to Google drive with Open Connectors](/Exercise2/readme.md)
+* [Exercise 2 - Create a UI Integration Card in Business Application Studio](/Exercise3/readme.md)
+* [Exercise 3 - Deploying/consuming the Card in SAP Work Zone](/Exercise4/readme.md)
 
 
 ## Support

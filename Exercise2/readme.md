@@ -1,6 +1,8 @@
-# Exercise 2 - Connect to Google drive with Open Connectors
+# Exercise 1 - Connect to Google drive with Open Connectors
 
 What are we doing now and why?  As a first step we need to establish a connection between our Google Drive instance and Open Connectors to create the API documentation that we need later in Business Application Studio.  
+
+
 
 ## Open the Integration Suite from your SAP Business Technology Platform Cockpit:
 
@@ -28,6 +30,8 @@ What are we doing now and why?  As a first step we need to establish a connectio
 
 (5) You accessed now your Open Connector Trial through Integration Suite.
 
+
+
 ## Connect to Google Drive
 
 (6) Browse in the **connectors** and choose **“Google Drive”** from the catalogue. When hovering over the connector select **“Authenticate”**:
@@ -47,6 +51,8 @@ What are we doing now and why?  As a first step we need to establish a connectio
 (9) If the authentication worked out, **you will receive a success message** as seen below in screenshot:
 
 ![alt text](/Exercise2/SuccessFullConnection.png "SuccessFullConnection")
+
+
 
 ## Invoke the Folder Contents API
 
@@ -72,8 +78,10 @@ The Curl includes all the information (Request URL and parameters) that you need
 
 ![alt text](/Exercise2/Response.png "Response")
 
+
+
 ## Summary
 For now this is all we need to do on Open Connectors side. Now you will see how we use these API information to create a new UI Integration Cards that connects live to Google Drive.
 
-[Continue to Exercise 3](/Exercise3/readme.md)      
+[Continue to Exercise 2](/Exercise3/readme.md)      
 [Go back to Exercise overview](/readme.md)

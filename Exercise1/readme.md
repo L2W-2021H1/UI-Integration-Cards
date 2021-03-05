@@ -1,4 +1,4 @@
-# Exercise 1 - Prepare Requirements
+# Prepare Requirements
 
 
 ## Register your SAP Business Technology Platform Trial Account
@@ -32,5 +32,5 @@ Make sure that after subscription, you create a folder called SAP where you stor
 ## Summary
 After completing these chapters you have met all requirements to start building your own SAP UI integration card.
 
-[Continue to Exercise 2](/Exercise2/readme.md)   
+[Continue to Exercise 1](/Exercise2/readme.md)   
 [Go back to Exercise overview](https://github.com/L2W-2021H1/UI-Integration-Cards)
