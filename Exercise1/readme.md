@@ -18,7 +18,7 @@ https://developers.sap.com/tutorials/hcp-create-trial-account.html
 please follow the steps in this blog:
 https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/
 
-![alt text](/entitlements.gif "How to add entitlements")
+![alt text](/Exercise1/entitlements.gif "How to add entitlements")
 ##
 
 * [SAP Business Application Studio](https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/)
