@@ -2,26 +2,29 @@
 
 
 ## Register your SAP Business Technology Platform Trial Account
-please follow the steps in this blog:   
-https://developers.sap.com/tutorials/hcp-create-trial-account.html
+
+Register for a free account at [SAP Business Technology Platform Trial](https://account.hanatrial.ondemand.com/)
+
+For a full guide, please follow the steps in this [blog](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 
 ## Activate the Business Application studio
-please follow the steps in this blog:   
-https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/
-
 >_Note that you will have to manually add the entitlements to your subacount_   
 > _for both Integration Suite as well as Business Application Studio_
 
-![alt text](/Exercise1/entitlements.gif "How to add entitlements")
+![alt text](./entitlements.gif "How to add entitlements")
+
+For a full guide, please follow the steps in this [blog](https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/)
 
 
 ## Activate Open Connectors
-please follow the steps in this blog:   
-https://blogs.sap.com/2020/08/07/sap-cloud-platform-integration-suite-trial-is-now-available/
-
 > _Note that you have to add Integration Suite to your entitlements_   
 > _You have to create a new instance to Integration Suite_   
 > _In Integration Suite you have to active Non-SAP integration_
+
+
+For a full guide, please follow the steps in this [blog](https://blogs.sap.com/2020/08/07/sap-cloud-platform-integration-suite-trial-is-now-available/)
+
+
 
 ## Prepare your Google Drive
 You can apply for storage space at google via this link:   
