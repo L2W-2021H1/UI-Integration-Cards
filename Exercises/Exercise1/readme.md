@@ -83,5 +83,6 @@ The Curl includes all the information (Request URL and parameters) that you need
 ## Summary
 For now this is all we need to do on Open Connectors side. Now you will see how we use these API information to create a new UI Integration Cards that connects live to Google Drive.
 
+---
 [Continue to Exercise 2](/Exercises/Exercise2/readme.md)      
 [Go back to Exercise overview](/readme.md)

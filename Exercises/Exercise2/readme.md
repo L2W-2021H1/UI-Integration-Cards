@@ -103,7 +103,7 @@ Feel free to try out with other connectors like ServiceNow as well. For more inf
 [Connect SAP Work Zone to ServiceNow - Part 2](https://blogs.sap.com/2020/12/22/how-to-integrate-3rd-party-services-as-servicenow-to-sap-work-zone-for-hr-using-open-connectors-and-business-application-studio-part-2-2/)
 
 
-
+---
 [Continue to Exercise 3](/Exercises/Exercise3/readme.md)    
 
 [Go back to Exercise overview](/readme.md)
