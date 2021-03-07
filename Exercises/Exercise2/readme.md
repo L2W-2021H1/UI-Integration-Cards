@@ -1,7 +1,6 @@
 # Exercise 2 - Create a UI Integration Card in Business Application Studio
 
-We have now the standardized API (Curl) through Open Connectors, that we need to connect towards our Google Drive.
-
+We have now the standardized API (Curl) through Open Connectors, that we need to connect towards our Google Drive.   
 Now lets create the actual UI Integration Card where we fill in the information that we generated through our get request above.
 
 
@@ -60,8 +59,7 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 (12) Take over the **headers** from the CURL request. Note that there are 2: **accept** and **Authorization**.
 
-> Note that for Authorization you have to take the full path including user, organization, element.
-
+> Note that for Authorization you have to take the full path including user, organization, element.   
 > Note when copying, don't copy the quotes.
 
 ![alt text](./CurlHeaders.png "CurlHeaders")
