@@ -104,6 +104,5 @@ Feel free to try out with other connectors like ServiceNow as well. For more inf
 
 
 ---
-[Continue to Exercise 3](/Exercises/Exercise3/readme.md)    
-
+[Continue to Exercise 3](/Exercises/Exercise3/readme.md)     
 [Go back to Exercise overview](/readme.md)
