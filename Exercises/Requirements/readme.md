@@ -5,15 +5,14 @@
 
 Register for a free account at [SAP Business Technology Platform Trial](https://account.hanatrial.ondemand.com/)
 
-For a full guide, please follow the steps in this [blog](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+> For a full guide, please follow the steps in this [blog](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 
 ## Activate the Business Application studio
->_Note that you will have to manually add the entitlements to your subacount_   
-> _for both Integration Suite as well as Business Application Studio_
+You will have to manually add the entitlements to your subacount for both **Integration Suite** as well as **Business Application Studio**
 
 ![alt text](./entitlements.gif "How to add entitlements")
 
-For a full guide, please follow the steps in this [blog](https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/)
+> For a full guide, please follow the steps in this [blog](https://blogs.sap.com/2020/03/06/sap-business-application-studio-trial-in-sap-cloud-platform-assigning-roles/)
 
 
 ## Activate Open Connectors
