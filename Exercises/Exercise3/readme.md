@@ -1,5 +1,8 @@
 # Exercise 3 - Deploying/consuming the Card in SAP Work Zone
 
+> Note that this exercise cannot be performed on a trial account yet.
+> Hence this exercise is for reference only and cannot be performed unless you have a private deployment.
+
 (1) In the **SAP Business Application Studio** right click on _manifest.json_ and choose **UI Integration Card: Deploy to SAP Work Zone**.
 
 ![alt text](./Deploy.png "Deploy")
