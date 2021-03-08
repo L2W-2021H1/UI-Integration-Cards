@@ -3,6 +3,8 @@
 We have now the standardized API (Curl) through Open Connectors, that we need to connect towards our Google Drive.   
 Now lets create the actual UI Integration Card where we fill in the information that we generated through our get request above.
 
+> Note that if at any point you get stuck. The _source_ is included [here](https://github.com/L2W-2021H1/UI-Integration-Cards/blob/main/com-sap-openconnectors-highlightcard-GoogleDriveCard/manifest.json)
+
 
 ## Create new Development Space
 
