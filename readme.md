@@ -4,7 +4,7 @@
 This repository contains material for the SAP **Learn to Win 2021-H1** session on **SAP Work Zone UI Integration Cards**.
 
 ## Overview
-This session introduces attendees to the creation of a **UI Integration Card** with the help of **Open Connectors**. There is a no-code exercise attached to create your own card. The presentation can be found here.
+This session introduces attendees to the creation of a **UI Integration Card** with the help of **Open Connectors**. Below you can find a no-code exercise to create your own card. The presentation can be found [here](/Exercises/Collateral/2021%20H1%20Learn%20to%20Win%20Presentation_Work%20Zone_UI%20Integration%20Card.pptx?raw=true).
 Have fun! :smiley:
 
 ## Requirements
