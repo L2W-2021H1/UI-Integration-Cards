@@ -51,12 +51,12 @@ Now lets create the actual UI Integration Card where we fill in the information 
 
 <img src="./RemoveJSON.png" width="450">
 
-(11) Copy the generated **Request URL** from OpenConnectors and past it in **Data Request URL** under **Data Configuration (Header)**.
+(11) Copy the generated **Request URL** from OpenConnectors and past it in **Data Request URL** under **Data Configuration (Content)**.
 
 > Note that after each save, the preview will reload. You will see an error message **unauthorized** in the right bottom corner.
 
 ![alt text](./RequestURL.png "RequestURL")
-![alt text](./NewDataURL.png "NewDataURL  ")
+![alt text](./NewDataURL.png "NewDataURL_2")
 
 
 (12) Take over the **headers** from the CURL request. Note that there are 2: **accept** and **Authorization**.
