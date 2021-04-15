@@ -56,7 +56,7 @@ Now lets create the actual UI Integration Card where we fill in the information 
 > Note that after each save, the preview will reload. You will see an error message **unauthorized** in the right bottom corner.
 
 ![alt text](./RequestURL.png "RequestURL")
-![alt text](./NewDataURL.png "NewDataURL_2")
+![alt text](./NewDataURL_2.png "NewDataURL")
 
 
 (12) Take over the **headers** from the CURL request. Note that there are 2: **accept** and **Authorization**.
